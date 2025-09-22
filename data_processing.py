@@ -1,10 +1,11 @@
 print("adding all data of the fraud detection")
 
+a =5 
+b = 7
+ 
+def sum(a,b):
+    c = a + b
+    return a
 
-def add(a, b):
-    """Return the sum of two numbers"""
-    return a + b
-
-
-
-    print("this is the wrong  code")
+print("add a new function sum which is not correct ")
+             
