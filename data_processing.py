@@ -5,7 +5,6 @@ b = 7
  
 def sum(a,b):
     c = a + b
-    return a
+    return c
 
-print("add a new function sum which is not correct ")
-             
+print("add a new function which is not correct ")
